@@ -1,0 +1,18 @@
+{
+    "id": 101,
+    "name": "ElectroWHITEamix",
+    "author": "Transcatency",
+    "creators": ["Transcatency"],
+    "verifier": "Transcatency",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+        {
+            "user": "EK",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
